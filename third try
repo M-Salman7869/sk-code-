@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sk web</title>
+</head>
+<h1>Welcome to <i>sk web</i></h1>
+<body>
+    <h1>Welcome to <i>sk web</i></h1>
+    <p>Your one-stop solution for all <b> web development needs.</b></p>
+    <br> 
+
+    <h2>Our Services</h2>
+    <ul>
+        <li>Web Design</li>
+        <li>Web Development</li>
+        <li>SEO Services</li>
+        <h3>Why Choose Us?</h3>
+        <p>We offer the <i>best</i> services at affordable prices.</p>
+    </ul>
+    <footer>
+        <p>&copy; 2023 sk web. All rights reserved.</p>
+    </footer>
+</body>
+</html>
